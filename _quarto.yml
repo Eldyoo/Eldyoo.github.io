@@ -10,6 +10,8 @@ website:
         href: index.qmd
       - text: FYP Project
         href: fyp-project.qmd
+      - text: Travel Experience
+        href: travel.qmd
       - text: Reflection
         href: reflection.qmd
 
