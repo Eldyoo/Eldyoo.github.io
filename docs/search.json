@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "temp_website",
+    "title": "Welcome to My Website",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Hi, I’m Rachel, a Year 2 Applied Computing student at SIT. I’m passionate about technology, web development, and exploring new ideas.\n\n\n\nPhoto of Me\n\n\n\n\n\n\nSoftware Development\nCloud Computing\nData Analytics\nBaking (especially matcha-flavored desserts 🍵🧁)"
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,40 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#my-interests",
+    "href": "index.html#my-interests",
+    "title": "Welcome to My Website",
+    "section": "",
+    "text": "Software Development\nCloud Computing\nData Analytics\nBaking (especially matcha-flavored desserts 🍵🧁)"
+  },
+  {
+    "objectID": "fyp-project.html",
+    "href": "fyp-project.html",
+    "title": "My Final Year Project",
+    "section": "",
+    "text": "My Final Year Project focuses on creating an interactive football fan application that offers:\n\nPlayer and Team Performance Tracking: Historical data from FIFA World Cups (1930-2022).\nTrends and Analytics: Tools to analyze performance trends.\nPrediction Features: Allowing users to make informed predictions for upcoming matches.\n\n\n\n\nFrontend: React.js\nBackend: Django\nDatabase: PostgreSQL\nCloud Hosting: AWS EC2 and RDS\n\nThis project highlights my passion for combining sports and technology."
+  },
+  {
+    "objectID": "fyp-project.html#technology-stack",
+    "href": "fyp-project.html#technology-stack",
+    "title": "My Final Year Project",
+    "section": "",
+    "text": "Frontend: React.js\nBackend: Django\nDatabase: PostgreSQL\nCloud Hosting: AWS EC2 and RDS\n\nThis project highlights my passion for combining sports and technology."
+  },
+  {
+    "objectID": "index.html#highlights-of-my-trip",
+    "href": "index.html#highlights-of-my-trip",
+    "title": "Welcome to My Website",
+    "section": "Highlights of My Trip",
+    "text": "Highlights of My Trip\n\nFood:\nI absolutely loved the egg tarts and Hong Kong-style milk tea. The flavors were incredible!\nSightseeing:\nVisiting Victoria Peak and exploring local markets was a treat.\nCultural Experience:\nLearning about Hong Kong’s history and culture was enriching.\n\nThis trip reminded me of the importance of travel in broadening perspectives and creating lasting memories."
+  },
+  {
+    "objectID": "reflection.html",
+    "href": "reflection.html",
+    "title": "Reflection on the Use of GenAI",
+    "section": "",
+    "text": "Reflection on the Use of GenAI\nFor this project, I used ChatGPT by OpenAI to assist me in completing various aspects of the assessment. The tool helped me by providing clear guidance on formatting content in Markdown, structuring my website, and suggesting creative ideas for the pages. It also simplified the technical aspects, like editing the _quarto.yml file, and offered quick solutions to challenges I faced.\nI found GenAI incredibly beneficial for tasks that required rapid problem-solving and efficient content creation. Its ability to understand my needs and offer precise recommendations saved me a lot of time. However, one challenge I encountered was ensuring that the content generated was aligned with my personal style and intent. This required me to review and adapt the suggestions to make them feel authentic.\nOverall, using GenAI was a productive experience, and it demonstrated the potential of AI in streamlining creative and technical workflows."
   }
 ]

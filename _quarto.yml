@@ -1,22 +1,25 @@
 project:
   type: website
   output-dir: docs
-
+  
 website:
-  title: "temp_website"
   navbar:
+    title: "Rachel's Website"
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - text: Home
+        href: index.qmd
+      - text: FYP Project
+        href: fyp-project.qmd
+      - text: Reflection
+        href: reflection.qmd
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: cosmo
     css: styles.css
     toc: true
+    toc-depth: 3
+    toc-location: left
 
 editor: visual
 
