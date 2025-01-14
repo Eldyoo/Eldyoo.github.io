@@ -25,14 +25,14 @@
     "href": "fyp-project.html",
     "title": "My Final Year Project",
     "section": "",
-    "text": "My Final Year Project focuses on creating an interactive football fan application that offers:\n\nPlayer and Team Performance Tracking: Historical data from FIFA World Cups (1930-2022).\nTrends and Analytics: Tools to analyze performance trends.\nPrediction Features: Allowing users to make informed predictions for upcoming matches.\n\n\n\n\nFrontend: React.js\nBackend: Django\nDatabase: PostgreSQL\nCloud Hosting: AWS EC2 and RDS\n\nThis project highlights my passion for combining sports and technology."
+    "text": "My Final Year Project focuses on creating an interactive football fan application that offers:\n\nPlayer and Team Performance Tracking: Historical data from FIFA World Cups (1930-2022).\nTrends and Analytics: Tools to analyze performance trends.\nPrediction Features: Allowing users to make informed predictions for upcoming matches.\n\n\n\n\nFrontend: React.js\nBackend: Django\nDatabase: PostgreSQL\nCloud Hosting: AWS EC2 and RDS\n\n\n\n\n\nAWS Logo\n\n\n\nThe application is deployed on AWS using EC2 instances for hosting the backend and RDS for managing the database. AWS offers scalability, reliability, and cost-effectiveness, making it an ideal choice for this project.\nThis project highlights my passion for combining sports and technology."
   },
   {
     "objectID": "fyp-project.html#technology-stack",
     "href": "fyp-project.html#technology-stack",
     "title": "My Final Year Project",
     "section": "",
-    "text": "Frontend: React.js\nBackend: Django\nDatabase: PostgreSQL\nCloud Hosting: AWS EC2 and RDS\n\nThis project highlights my passion for combining sports and technology."
+    "text": "Frontend: React.js\nBackend: Django\nDatabase: PostgreSQL\nCloud Hosting: AWS EC2 and RDS\n\n\n\n\n\nAWS Logo\n\n\n\nThe application is deployed on AWS using EC2 instances for hosting the backend and RDS for managing the database. AWS offers scalability, reliability, and cost-effectiveness, making it an ideal choice for this project.\nThis project highlights my passion for combining sports and technology."
   },
   {
     "objectID": "index.html#highlights-of-my-trip",
@@ -51,14 +51,14 @@
   {
     "objectID": "travel.html",
     "href": "travel.html",
-    "title": "My Trip to Hong Kong",
+    "title": "My Trips",
     "section": "",
-    "text": "Recently, I had the opportunity to visit Hong Kong with my friends. The experience was unforgettable, filled with amazing food, culture, and scenery.\n\n\n\nEgg Tart\n\n\n\n\n\nFood:\nI absolutely loved the egg tarts and Hong Kong-style milk tea. The flavors were incredible!\nSightseeing:\nVisiting Victoria Peak and exploring local markets was a treat.\nCultural Experience:\nLearning about Hong Kong’s history and culture was enriching.\n\nThis trip reminded me of the importance of travel in broadening perspectives and creating lasting memories."
+    "text": "Recently, I had the opportunity to visit Hong Kong with my friends. The experience was unforgettable, filled with amazing food, culture, and scenery.\n\n\n\nEgg Tart\n\n\n\n\n\n\n\n\n\nFood:\nI absolutely loved the egg tarts and Hong Kong-style milk tea. The flavors were incredible!\nSightseeing:\nVisiting Victoria Peak and exploring local markets was a treat.\nCultural Experience:\nLearning about Hong Kong’s history and culture was enriching.\n\nThis trip reminded me of the importance of travel in broadening perspectives and creating lasting memories."
   },
   {
     "objectID": "travel.html#highlights-of-my-trip",
     "href": "travel.html#highlights-of-my-trip",
-    "title": "My Trip to Hong Kong",
+    "title": "My Trips",
     "section": "",
     "text": "Food:\nI absolutely loved the egg tarts and Hong Kong-style milk tea. The flavors were incredible!\nSightseeing:\nVisiting Victoria Peak and exploring local markets was a treat.\nCultural Experience:\nLearning about Hong Kong’s history and culture was enriching.\n\nThis trip reminded me of the importance of travel in broadening perspectives and creating lasting memories."
   }
