@@ -1,0 +1,19 @@
+---
+title: "My Final Year Project"
+---
+
+# Final Year Project: Football Fan App
+
+My Final Year Project focuses on creating an interactive football fan application that offers:
+
+- **Player and Team Performance Tracking**: Historical data from FIFA World Cups (1930-2022).
+- **Trends and Analytics**: Tools to analyze performance trends.
+- **Prediction Features**: Allowing users to make informed predictions for upcoming matches.
+
+## Technology Stack
+- **Frontend**: React.js
+- **Backend**: Django
+- **Database**: PostgreSQL
+- **Cloud Hosting**: AWS EC2 and RDS
+
+This project highlights my passion for combining sports and technology.

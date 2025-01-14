@@ -1,0 +1,39 @@
+---
+title: "Welcome to My Website"
+---
+
+# About Me
+
+Hi, I'm **Rachel**, a Year 2 Applied Computing student at SIT. I'm passionate about technology, web development, and exploring new ideas.
+
+![Photo of Me](path/to/your-photo.jpg)
+
+---
+
+## My Interests
+
+- **Software Development**
+- **Cloud Computing**
+- **Data Analytics**
+- **Baking** (especially matcha-flavored desserts 🍵🧁)
+
+---
+
+# My Trip to Hong Kong
+
+Recently, I had the opportunity to visit **Hong Kong** with my friends. The experience was unforgettable, filled with amazing food, culture, and scenery.
+
+![Egg Tart](path/to/egg-tart.jpg)
+
+## Highlights of My Trip
+
+- **Food**:  
+  I absolutely loved the egg tarts and Hong Kong-style milk tea. The flavors were incredible!
+
+- **Sightseeing**:  
+  Visiting Victoria Peak and exploring local markets was a treat.
+
+- **Cultural Experience**:  
+  Learning about Hong Kong's history and culture was enriching.
+
+This trip reminded me of the importance of travel in broadening perspectives and creating lasting memories.
