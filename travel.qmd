@@ -1,12 +1,13 @@
----
-title: "travel"
----
 
 # My Trip to Hong Kong
 
 Recently, I had the opportunity to visit **Hong Kong** with my friends. The experience was unforgettable, filled with amazing food, culture, and scenery.
 
-![Egg Tart](images/egg-tart.jpg){width=400px}
+
+
+![Egg Tart](egg-tart.jpg){width=60%}
+
+
 
 ## Highlights of My Trip
 
